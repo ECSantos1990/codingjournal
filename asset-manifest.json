@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/codingjournal/static/css/main.a3202c92.css",
+    "main.js": "/codingjournal/static/js/main.b2aa4a3c.js",
+    "index.html": "/codingjournal/index.html",
+    "main.a3202c92.css.map": "/codingjournal/static/css/main.a3202c92.css.map",
+    "main.b2aa4a3c.js.map": "/codingjournal/static/js/main.b2aa4a3c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a3202c92.css",
+    "static/js/main.b2aa4a3c.js"
+  ]
+}
